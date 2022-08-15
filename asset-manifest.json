@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/%20wedding-app/static/css/main.9c91605e.css",
+    "main.js": "/%20wedding-app/static/js/main.c454b25f.js",
+    "static/js/787.b444d40d.chunk.js": "/%20wedding-app/static/js/787.b444d40d.chunk.js",
+    "static/media/img1.jpg": "/%20wedding-app/static/media/img1.dc9c33eb26f6c3197694.jpg",
+    "static/media/im3.jpg": "/%20wedding-app/static/media/im3.d2771d3f3eec4ac60ec5.jpg",
+    "static/media/babu.jpg": "/%20wedding-app/static/media/babu.4799bf4892b99f29ca71.jpg",
+    "static/media/img2.jpg": "/%20wedding-app/static/media/img2.f8bd0aab36ec22c151a5.jpg",
+    "index.html": "/%20wedding-app/index.html",
+    "main.9c91605e.css.map": "/%20wedding-app/static/css/main.9c91605e.css.map",
+    "main.c454b25f.js.map": "/%20wedding-app/static/js/main.c454b25f.js.map",
+    "787.b444d40d.chunk.js.map": "/%20wedding-app/static/js/787.b444d40d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c91605e.css",
+    "static/js/main.c454b25f.js"
+  ]
+}
